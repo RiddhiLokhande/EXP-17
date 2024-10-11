@@ -13,8 +13,12 @@ Visual Studio Code
 Linked lists are of several types, including:
 
 Singly Linked List: Each node points to the next node in the sequence.
+
 Doubly Linked List: Each node has pointers to both the next and the previous node.
+
 Circular Linked List: The last node points back to the first node, forming a circle.
+
+
 Comparison of Linked List and Arrays
 
 Linked List:
