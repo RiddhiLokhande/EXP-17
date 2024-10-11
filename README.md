@@ -22,15 +22,25 @@ Circular Linked List: The last node points back to the first node, forming a cir
 Comparison of Linked List and Arrays
 
 Linked List:
+
 Data Structure: Non-contiguous
+
 Memory Allocation: Typically allocated one by one to individual elements
+
 Insertion/Deletion: Efficient
+
 Access: Sequential
+
 Array:
+
 Data Structure: Contiguous
+
 Memory Allocation: Typically allocated to the whole array
+
 Insertion/Deletion: Inefficient
+
 Access: Random
+
 </li>
 </ul>
 
